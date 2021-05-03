@@ -3,8 +3,8 @@
 This is a basic feedback system made using node.js and React. This uses cloudinary and Sendgrid api system for fileupload and mail sending.
 
 To run this project on you local machine:
-*clone the repository
-*run ```npm i``` in the terminal to include all the node modules packages.
+* clone the repository
+* run ```npm i``` in the terminal to include all the node modules packages.
 * create .env files in both the client and server folder .
 1. In the .env file of the client add these data
 ```
@@ -20,7 +20,8 @@ EMAIL_FROM={EMAIL WITH MAIL SHOULD BE RECIEVED}
 ```
 * AFTER ALL THE FOLLOWING PROCESS 
 ```javascript
-npm start```
+npm start
+```
 in both the client and server folder
 
 ALL SET AFTER THIS
